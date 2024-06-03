@@ -53,6 +53,7 @@ WEDNESDAY, June 12th
 - 9:00am-4:00pm: [WWDCCommunity Lounge: A space for us to watch, join WWDC activities & discuss with fellow developers attending WWDC24](https://coda.io/@wwdccommunity/wwdccommunity-lounge-wwdc24)
 - 10:00am-5:00pm: [One More Thing conference](https://omt-conf.com/) 10am-5pm, talks TBA (requires ticket; limited capacity)
 - 11:00am-2:00pm: [Core Coffee X LookUp 10 Year Anniversary - WWDC Edition](https://www.meetup.com/core-coffee-a-catch-up-for-ios-and-macos-developers/events/300261500/)
+- 12:00pm-1:30pm: [WWDC Women's Lunch - Picnic at Main Street](https://www.meetup.com/swift-language/events/301064987/?utm_medium=referral&utm_campaign=announceModal_savedevents_share_modal&utm_source=link)
 - 1:00pm-4:00pm: [WWDCCommunity Vision Pro Enthusiast Meetup](https://coda.io/@wwdccommunity/wwdccommunity-vision-pro-enthusiast-meetup)
 - 5:00pm-7:30pm [Swift Community Social @ WWDC24](https://www.eventbrite.com/e/swift-community-social-wwdc24-tickets-897550506727) (requires ticket; limited capacity)
 - 7:00pm-11:00pm: [James Dempsey <sup>and</sup><sub>the</sub> Breakpoints: LIVE near WWDC](https://livenearwwdc.com) Music starts about 8, (requires ticket; limited capacity)
